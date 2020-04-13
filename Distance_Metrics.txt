@@ -1,0 +1,30 @@
+
+Below is a semi-comprehensive list of similarity metrics. This list should be good for now. Think it of from the standpoint of writing a blog on it. Stay away from ML techniques such as KNN, K-means etc. But these distances can assist the ML techniques which is fine. At the bottom, you have a list of helpful links, follow the pattern. You do not need published paper to read from, rather how people are explaning in datascience.stackexchange, stat.stackexchange., towardsdatascience. 
+
+
+Minkowski distance
+  Manhattan
+  Euclidean
+Cosine similarity 
+jaccard similarity
+Correlation based 
+  Pearson correlation coefficient
+  Spearman's Rho
+  Kendall's Tao 
+Statistical distance
+  Mahalanobis distance
+  Cook's distance
+  Chi-Square distance
+Distribution based 
+  KS distance
+  Kullback–Leibler divergence 
+
+
+Example Links: 
+  https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
+  https://datascience.stackexchange.com/questions/64260/pearson-vs-spearman-vs-kendall
+  https://stats.stackexchange.com/questions/408438/difference-between-euclidean-pearson-geodesic-and-mahalanobis-distance-metrics
+  https://datascience.stackexchange.com/questions/5121/applications-and-differences-for-jaccard-similarity-and-cosine-similarity
+
+
+
