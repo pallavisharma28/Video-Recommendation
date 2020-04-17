@@ -1,0 +1,11 @@
+https://dev.to/alexgascon/cpython-cython-pypy-an-introductory-guide-to-the-different-python-variants-i4h
+https://www.geeksforgeeks.org/difference-various-implementations-python/
+https://pythonprogramming.net/introduction-and-basics-cython-tutorial/
+http://doublemap.github.io/blog/2015/05/29/optimizing-python/
+https://cython.readthedocs.io/en/latest/
+http://docs.cython.org/en/latest/src/tutorial/index.html
+
+Installation:
+https://cython.readthedocs.io/en/latest/src/quickstart/install.html
+https://cython.readthedocs.io/en/latest/src/quickstart/build.html
+
