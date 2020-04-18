@@ -8,4 +8,5 @@ http://docs.cython.org/en/latest/src/tutorial/index.html
 Installation:
 https://cython.readthedocs.io/en/latest/src/quickstart/install.html
 https://cython.readthedocs.io/en/latest/src/quickstart/build.html
+http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/
 
